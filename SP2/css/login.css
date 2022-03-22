@@ -1,0 +1,16 @@
+.got{
+    background: url('../SE_Project/image/sajek.jpg') no-repeat; width: 100% ; height: 100vh;
+  
+  }
+  .form-container{
+    border: 2px solid;
+    padding: 30px 30px;
+    margin-top: 150px;
+    -webkit-box-shadow: -24px 9px 75px 0px rgba(0,0,0,0.89);
+    -moz-box-shadow: -24px 9px 75px 0px rgba(0,0,0,0.89);
+    box-shadow: -24px 9px 75px 0px rgba(0,0,0,0.89);
+  }
+  *{
+    color: solid black;
+  }
+  
